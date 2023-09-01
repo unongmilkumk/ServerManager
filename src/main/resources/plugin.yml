@@ -1,0 +1,4 @@
+name: ServerManager
+version: '${version}'
+main: com.subu.servermanager.Main
+api-version: 1.20
